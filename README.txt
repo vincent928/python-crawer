@@ -1,2 +1,2 @@
-it'a example
-it'a second time
+python2.7 爬虫入门
+爬取百度百科页面,提取标题和概要,将其用Html输出
